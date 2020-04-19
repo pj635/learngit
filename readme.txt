@@ -11,4 +11,9 @@ branch master was changed on the github222222
 +++++++++++++++++++++++
 branch master was changed on the github333333
 branch master was changed on my computer33333333
+<<<<<<< HEAD
 branch master was changed on my computer44444444
+=======
+branch master was changed on the github444444
+>>>>>>> 1147562feb7fddf4d174ccfe5c6185c67c86fda3
+1111111111111111111111111111111111
